@@ -1,0 +1,19 @@
+{
+  "name": "assignment-4",
+  "version": "1.0.0",
+  "description": "my first project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "pan":"nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj Mlai",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
